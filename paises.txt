@@ -1,0 +1,18 @@
+brasil
+brasilia
+portugues
+100
+200
+
+argentina
+buenos aires
+espanhol
+250
+600
+
+peru
+lima
+espanhol
+800
+9003
+
